@@ -17,5 +17,6 @@ int solution(vector<int> numbers) {
             sum += i;
         }
     }
+    
     return sum;
 }
